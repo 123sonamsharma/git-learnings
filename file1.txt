@@ -1,5 +1,1 @@
 hello this is sonam sharma
-i live in bangalore.
-i am doing job right now.
-tryig to learn about revert and reset commit.
-
